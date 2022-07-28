@@ -20,6 +20,8 @@ If You hit demon, you have to reload the page to restart the game.
 
 Thank You! 
 
+For play the game please go through this link : https://ssonig1.github.io/Drago-Adventure/
+
 Feel Free to send pull request if you made some changes in game.
 
 ![da](https://user-images.githubusercontent.com/107581830/181518556-1e2ca7d2-430c-4119-a53e-042ecdf60cb1.png)
