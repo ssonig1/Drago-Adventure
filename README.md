@@ -4,6 +4,8 @@ Hello, It's an Acrade Game like Dino.
 
 You have to jump over the demons, you get point which see in Score Board. 
 
+IMP: Only for PC and keyboard connected devices 😄
+
 You are allowed to move Upward, Forward, Backward.
 
 Control's for Movements: 
